@@ -1,0 +1,201 @@
+airport_id,airline_name,state,country,city,created_at,updated_at
+1,Lufthansa,,Brazil,Atins,2025-03-27 09:04:59,2025-09-16 10:53:54
+2,LATAM Airlines,,Czech Republic,Zlín,2025-09-06 02:15:50,2025-02-22 13:44:48
+3,South African Airways,,Morocco,Kenitra,2025-08-31 23:41:01,2025-07-13 06:07:43
+4,KLM Royal Dutch Airlines,,Czech Republic,Topolná,2025-08-28 07:44:24,2025-04-19 22:23:28
+5,Air India,,Czech Republic,Volary,2025-10-05 15:15:35,2024-12-14 12:09:01
+6,Lufthansa,,China,Jun’an,2024-12-06 23:27:26,2025-10-11 10:41:21
+7,Air France,,Indonesia,Cempaka,2025-01-29 04:56:58,2024-12-04 18:09:40
+8,All Nippon Airways,,Indonesia,Panineungan,2025-09-15 21:52:19,2025-08-10 02:19:48
+9,Air Canada,,Indonesia,Raemude,2025-01-07 14:02:59,2024-12-15 10:35:08
+10,All Nippon Airways,,Kosovo,Lumbardhi,2024-12-14 21:17:20,2025-03-25 03:58:41
+11,Air India,,Greece,Periyiáli,2025-05-22 09:34:12,2025-02-15 10:31:56
+12,Air France,,Indonesia,Paritjunus,2025-08-13 11:14:57,2024-11-21 16:23:36
+13,Delta Air Lines,Saskatchewan,Canada,Lloydminster,2024-10-28 00:43:22,2025-08-26 20:11:54
+14,KLM Royal Dutch Airlines,,Brazil,Penha,2024-11-13 13:14:39,2025-07-30 17:11:16
+15,Air Canada,,Indonesia,Karangbayat,2025-02-26 09:04:05,2025-05-03 10:11:34
+16,Delta Air Lines,,China,Chuncheng,2025-03-16 19:55:55,2024-10-28 23:48:36
+17,British Airways,,Indonesia,Wadung,2025-03-08 15:24:55,2025-02-02 00:08:56
+18,Qantas,,Ethiopia,Gelemso,2024-12-01 01:12:21,2025-03-27 11:59:18
+19,Ethiopian Airlines,,Czech Republic,Horní Čermná,2025-01-08 07:47:58,2025-04-30 21:20:58
+20,Lufthansa,British Columbia,Canada,New Westminster,2024-11-15 12:56:47,2025-05-20 01:47:18
+21,Air India,,Philippines,San Antonio,2025-08-22 07:36:42,2025-01-12 22:11:47
+22,Air New Zealand,,China,Tangxian,2024-10-23 23:30:14,2025-06-24 20:37:40
+23,British Airways,,Thailand,Hat Yai,2025-02-09 14:25:33,2024-11-18 08:08:29
+24,Air New Zealand,,Nigeria,Kachia,2025-08-03 08:10:50,2025-02-26 16:03:57
+25,Air India,Georgia,United States,Atlanta,2025-05-27 17:32:59,2025-02-03 06:13:17
+26,Aeroméxico,,Russia,Novopokrovskaya,2025-04-08 22:40:36,2025-05-12 22:43:56
+27,South African Airways,,Thailand,Ban Ratsada,2025-07-09 02:30:13,2025-08-29 23:14:13
+28,Alitalia,,Tunisia,Béja,2024-12-26 22:14:56,2024-11-07 10:29:39
+29,Air New Zealand,,China,Zhongzhang,2024-10-18 20:48:29,2025-03-16 15:13:07
+30,British Airways,,Russia,Vereya,2024-12-21 11:50:16,2025-07-12 22:45:40
+31,Air Canada,Bretagne,France,Rennes,2024-10-31 18:32:23,2025-03-30 04:46:20
+32,Qantas,California,United States,Irvine,2025-01-05 20:08:20,2025-09-15 20:34:09
+33,Qantas,,Mauritius,Goodlands,2025-07-24 23:13:52,2025-09-21 18:20:32
+34,American Airlines,,Slovenia,Hrastnik,2025-05-04 04:11:16,2025-09-01 10:06:34
+35,American Airlines,,Poland,Poddębice,2025-06-16 04:38:23,2025-04-08 11:55:27
+36,Qatar Airways,,Philippines,Guadalupe,2025-05-19 09:38:16,2025-07-09 00:17:55
+37,Avianca,,Central African Republic,Ndélé,2025-05-31 18:24:38,2025-02-01 05:41:18
+38,Air New Zealand,,Gambia,Gunjur,2025-08-01 01:09:43,2025-09-28 12:47:33
+39,SAS Scandinavian,,Venezuela,San Juan de Manapiare,2025-03-11 10:12:56,2025-09-14 10:31:48
+40,Air France,Île-de-France,France,Paris 12,2025-04-16 15:32:33,2025-09-27 17:19:28
+41,Thai Airways,California,United States,Sacramento,2024-10-21 22:50:58,2024-12-10 22:42:24
+42,LATAM Airlines,,Indonesia,Sepulu,2024-11-09 20:51:41,2025-01-31 21:40:50
+43,LATAM Airlines,,China,Jiangdulu,2025-04-11 05:07:12,2025-06-20 20:12:23
+44,Aeroméxico,,Armenia,Pemzashen,2025-05-04 03:48:06,2025-02-18 16:09:42
+45,Ethiopian Airlines,,Russia,Kinel’-Cherkassy,2025-05-10 15:21:11,2025-01-17 02:21:56
+46,Qatar Airways,,Thailand,Phak Hai,2025-01-26 04:44:28,2025-03-17 14:57:06
+47,United Airlines,,Poland,Przyborów,2025-02-28 23:52:10,2025-06-30 00:12:37
+48,KLM Royal Dutch Airlines,Saskatchewan,Canada,Swift Current,2024-12-07 22:31:26,2024-10-18 22:03:45
+49,Thai Airways,,Nigeria,Takum,2025-09-20 09:35:47,2025-07-08 23:13:46
+50,Air India,,Russia,Tarko-Sale,2025-03-04 03:30:19,2025-10-02 23:37:42
+51,Alitalia,,China,Basar,2025-08-09 18:14:58,2025-04-15 18:22:34
+52,LATAM Airlines,,Czech Republic,Klášter,2024-12-27 17:54:57,2025-03-25 12:04:05
+53,United Airlines,,Russia,Maykopskoye,2024-12-24 14:16:30,2025-04-02 09:40:35
+54,Air France,,Russia,Kropachëvo,2025-03-28 02:08:15,2024-12-23 19:36:02
+55,Delta Air Lines,Viseu,Portugal,Oliveira de Baixo,2025-02-10 07:38:52,2025-07-02 02:30:29
+56,Singapore Airlines,Jönköping,Sweden,Nässjö,2024-10-23 08:02:00,2025-07-06 15:53:19
+57,Southwest Airlines,,Cyprus,Xylotymbou,2025-08-27 21:49:34,2025-05-26 11:51:35
+58,Air India,,Philippines,Dayapan,2025-08-01 23:28:32,2024-10-24 19:10:31
+59,American Airlines,,Ukraine,Lysychovo,2025-07-12 23:40:21,2025-09-03 05:32:03
+60,American Airlines,,Russia,Untolovo,2025-07-30 18:48:24,2025-04-14 15:50:44
+61,LATAM Airlines,,Greece,Chrysoúpolis,2025-10-03 02:37:03,2025-03-25 23:07:08
+62,Air France,Halland,Sweden,Halmstad,2024-11-19 18:46:30,2025-04-07 04:51:42
+63,Emirates,,Russia,Orekhovo-Zuyevo,2025-03-26 10:46:53,2025-07-24 20:55:36
+64,Aeroméxico,Île-de-France,France,Rueil-Malmaison,2024-11-27 15:10:28,2025-06-18 19:41:17
+65,British Airways,,Palestinian Territory,Kafr ad Dīk,2025-08-14 19:32:39,2025-08-23 07:31:19
+66,Thai Airways,,Latvia,Viļaka,2025-08-12 21:15:45,2025-09-19 05:16:49
+67,Air New Zealand,,Honduras,Camasca,2024-12-15 21:42:28,2024-11-26 11:38:58
+68,Singapore Airlines,,Palestinian Territory,Immātīn,2025-08-13 07:56:21,2025-02-28 02:43:01
+69,Qatar Airways,,Brazil,Cruz das Almas,2025-04-16 17:08:03,2024-10-21 18:45:19
+70,United Airlines,,Ecuador,Eloy Alfaro,2025-02-15 23:45:21,2025-07-27 20:39:14
+71,Air New Zealand,Lisboa,Portugal,São Pedro,2025-02-11 11:04:43,2025-06-17 14:51:03
+72,Air New Zealand,,Indonesia,Lebak Timur,2025-05-26 08:23:31,2025-07-10 12:26:11
+73,All Nippon Airways,,South Korea,Changsu,2025-03-05 06:39:58,2024-12-30 06:55:55
+74,Lufthansa,,Brazil,Matelândia,2025-07-22 01:43:34,2025-08-07 15:21:30
+75,Air Canada,,Uganda,Kisoro,2025-08-19 08:47:49,2025-07-23 16:19:59
+76,Lufthansa,,Argentina,Villa General Belgrano,2025-01-05 11:05:36,2025-07-22 22:33:18
+77,Ethiopian Airlines,,Philippines,Dayapan,2025-07-10 20:58:47,2025-03-24 20:39:40
+78,Avianca,Mexico,Mexico,San Francisco,2025-08-26 17:05:49,2025-05-13 19:09:43
+79,SAS Scandinavian,,Ukraine,Ochakiv,2025-03-14 00:50:00,2025-08-05 19:37:23
+80,South African Airways,,China,Haolibao,2025-10-01 12:47:34,2025-08-07 15:51:54
+81,United Airlines,,China,Chengjiang,2024-10-30 12:22:50,2025-10-13 07:07:22
+82,Cathay Pacific,Coimbra,Portugal,Sarzedo,2024-10-17 01:40:33,2025-01-30 08:40:12
+83,Thai Airways,,Peru,Tibillo,2024-10-17 21:35:56,2025-01-21 15:34:52
+84,KLM Royal Dutch Airlines,,China,Zigong,2025-07-28 01:34:59,2024-11-02 12:13:40
+85,Lufthansa,,Ukraine,Horodyshche,2024-11-26 01:06:19,2024-11-27 08:45:53
+86,Cathay Pacific,,Kenya,Kapenguria,2025-05-29 16:54:42,2025-02-07 02:16:30
+87,KLM Royal Dutch Airlines,,South Africa,Muldersdriseloop,2025-03-27 09:29:22,2025-02-24 19:41:40
+88,Qatar Airways,,Peru,Ocuviri,2025-02-25 02:38:37,2025-02-22 22:17:36
+89,Singapore Airlines,,China,Juegang,2025-01-07 15:30:26,2025-07-06 09:44:12
+90,United Airlines,,Ethiopia,Dabat,2024-10-30 06:08:52,2025-06-03 18:22:28
+91,SAS Scandinavian,Viana do Castelo,Portugal,Carvalheira,2025-01-25 00:09:58,2025-08-21 14:07:19
+92,Qantas,,Argentina,Esperanza,2025-08-10 04:37:12,2025-05-21 02:51:34
+93,LATAM Airlines,,China,Gezan,2025-08-11 03:52:56,2025-03-13 15:42:58
+94,Delta Air Lines,,Palestinian Territory,Dayr Sharaf,2025-04-16 21:38:24,2025-10-08 19:22:00
+95,All Nippon Airways,Porto,Portugal,Laúndos,2025-03-17 23:24:46,2025-06-30 20:16:40
+96,KLM Royal Dutch Airlines,,China,Leyuan,2024-10-30 05:34:12,2025-04-03 15:50:19
+97,Lufthansa,,Luxembourg,Schieren,2024-10-27 19:30:30,2025-05-08 03:57:21
+98,Korean Air,,Russia,Suna,2025-06-25 22:00:04,2024-12-06 00:35:18
+99,Iberia,Perak,Malaysia,Ipoh,2024-12-14 04:55:30,2025-07-04 07:08:01
+100,Qatar Airways,,Botswana,Mopipi,2025-07-03 10:53:40,2025-07-28 21:18:19
+101,SAS Scandinavian,,Philippines,Manlucahoc,2025-07-07 12:03:32,2025-05-02 09:18:20
+102,Aeroméxico,,Brazil,Tapes,2024-10-24 05:46:21,2025-02-15 14:42:45
+103,South African Airways,,Panama,Agua Buena,2025-04-24 13:58:42,2024-11-05 06:18:01
+104,South African Airways,,China,Xiping,2024-11-19 17:39:46,2025-01-28 14:45:14
+105,Singapore Airlines,Stockholm,Sweden,Stockholm,2025-08-15 12:18:47,2025-05-01 17:56:44
+106,Southwest Airlines,,China,Dongzhang,2025-09-24 18:35:30,2025-09-24 17:25:59
+107,KLM Royal Dutch Airlines,,Ecuador,Samborondón,2025-05-10 04:46:56,2025-01-17 01:27:54
+108,Southwest Airlines,,Philippines,San Jose,2025-03-12 16:16:57,2025-05-19 20:17:07
+109,Air India,,Philippines,Guinabsan,2024-11-19 00:50:18,2025-03-03 04:35:33
+110,Iberia,,Mongolia,Baruunsuu,2025-07-21 02:21:41,2025-03-14 02:27:43
+111,Ethiopian Airlines,,Czech Republic,Nový Malín,2025-01-25 05:15:36,2025-08-25 00:46:32
+112,LATAM Airlines,,China,Shuhong,2025-09-02 02:44:57,2025-06-06 09:57:32
+113,Air France,,Indonesia,Wajak,2025-10-01 09:41:16,2025-08-15 19:55:10
+114,Cathay Pacific,,Philippines,Alcala,2025-09-15 09:04:36,2025-07-21 06:52:38
+115,Air New Zealand,,Greece,Skála Oropoú,2024-12-23 16:53:46,2025-09-18 04:17:00
+116,Emirates,,Ethiopia,Addis Ababa,2025-09-05 22:14:15,2024-10-25 07:06:33
+117,British Airways,,Uruguay,Aguas Corrientes,2025-01-16 14:05:36,2025-07-25 15:33:13
+118,Air France,Lisboa,Portugal,Mucifal,2024-12-24 21:36:57,2024-11-04 02:37:17
+119,Alitalia,,Brazil,Novo Hamburgo,2025-02-15 10:52:54,2025-03-25 12:00:46
+120,Thai Airways,,Namibia,Otavi,2025-07-02 14:22:38,2024-12-14 13:12:35
+121,Southwest Airlines,,Tanzania,Nungwi,2025-02-26 11:05:07,2025-06-28 15:23:09
+122,Alitalia,,China,Ziketan,2025-01-03 20:09:45,2024-11-12 20:51:40
+123,Aeroméxico,,Peru,Huallanca,2025-07-02 18:21:44,2025-05-01 05:33:44
+124,Emirates,,Pakistan,Risālpur,2024-11-17 22:47:12,2025-06-24 11:47:22
+125,Avianca,Lisboa,Portugal,Bairro,2025-09-13 14:41:27,2024-10-16 02:14:56
+126,Ethiopian Airlines,Castilla - Leon,Spain,Valladolid,2025-04-13 02:05:25,2025-05-19 07:27:48
+127,All Nippon Airways,Porto,Portugal,Seroa,2025-07-27 14:37:39,2025-05-24 23:28:18
+128,Avianca,,Indonesia,Kauditan,2025-01-24 13:29:20,2025-04-18 14:26:51
+129,KLM Royal Dutch Airlines,,Indonesia,Turi,2024-10-21 10:14:54,2025-01-08 02:16:56
+130,KLM Royal Dutch Airlines,,Indonesia,Krajan C Wonorejo,2025-08-28 08:33:44,2025-02-15 19:55:31
+131,Aeroméxico,Oslo,Norway,Oslo,2024-12-28 06:42:18,2025-01-04 09:08:06
+132,Delta Air Lines,,China,Xiaogang,2025-06-03 19:06:09,2025-03-13 07:01:27
+133,Cathay Pacific,,Czech Republic,Líně,2025-05-05 01:22:18,2025-01-13 20:31:08
+134,Air New Zealand,,Guatemala,Samayac,2025-06-12 13:39:11,2025-02-19 10:54:16
+135,British Airways,,Ukraine,Dykan’ka,2024-10-22 21:27:10,2024-11-29 04:41:57
+136,Delta Air Lines,,Greece,Asímion,2025-02-09 16:48:42,2025-07-23 07:16:12
+137,South African Airways,,Philippines,Lugait,2024-10-28 04:12:55,2025-04-04 01:54:49
+138,Emirates,,Nigeria,Mashi,2025-06-29 07:48:23,2025-06-26 07:07:06
+139,Aeroméxico,,Czech Republic,Zruč nad Sázavou,2025-03-21 05:13:45,2025-02-28 07:10:41
+140,Iberia,,Russia,Turtas,2024-11-12 05:16:53,2025-05-05 14:54:46
+141,South African Airways,Alsace,France,Schirmeck,2025-02-12 03:59:20,2024-12-13 06:59:58
+142,Korean Air,,Indonesia,Cikaduen,2025-06-13 10:35:14,2024-11-23 03:38:21
+143,Thai Airways,,Peru,San Pedro de Lloc,2025-07-23 07:07:59,2025-04-11 22:40:34
+144,Iberia,,China,Kunshan,2025-01-13 02:18:26,2025-02-14 19:38:52
+145,Air France,,Philippines,Maramag,2025-03-20 12:31:51,2025-10-07 04:59:06
+146,Qantas,,Thailand,Nong Phok,2025-01-31 04:47:14,2025-09-08 16:20:09
+147,United Airlines,,China,Jianjiang,2025-04-03 12:53:32,2025-08-09 08:59:18
+148,Singapore Airlines,,Czech Republic,Hradec Králové,2025-07-09 01:06:05,2025-02-26 01:02:35
+149,Delta Air Lines,,Colombia,Villamaría,2025-04-10 18:04:35,2025-03-23 22:29:33
+150,Aeroméxico,,China,Matou,2025-06-16 08:47:01,2025-01-05 00:31:12
+151,Avianca,,Nigeria,Gambaru,2025-05-19 19:42:39,2025-08-26 17:12:34
+152,Delta Air Lines,,China,Boshan,2025-05-14 15:29:16,2024-10-23 18:21:35
+153,SAS Scandinavian,,Kyrgyzstan,Toktogul,2025-03-16 16:21:10,2024-11-24 04:21:39
+154,Air New Zealand,,"Bonaire, Saint Eustatius and Saba ",Dorp Tera Kora,2025-09-11 05:54:28,2025-02-27 11:02:44
+155,Lufthansa,Languedoc-Roussillon,France,Nîmes,2025-09-16 00:38:58,2025-05-03 21:28:12
+156,SAS Scandinavian,,Indonesia,Triteh,2025-03-21 16:09:07,2025-01-28 02:18:20
+157,Cathay Pacific,,China,Tangchi,2025-03-12 23:47:13,2025-03-06 15:40:33
+158,All Nippon Airways,,Latvia,Valka,2025-10-11 16:57:46,2025-07-03 14:52:15
+159,SAS Scandinavian,,China,Yishi,2024-12-26 10:30:15,2025-02-21 20:26:26
+160,American Airlines,,China,Huanren,2025-01-27 03:39:08,2025-08-15 14:38:02
+161,Alitalia,,Japan,Nyūzen,2024-11-15 07:26:47,2024-12-31 11:33:32
+162,Avianca,Alberta,Canada,Raymond,2025-05-15 05:16:30,2024-10-24 17:46:48
+163,Air New Zealand,,China,Lingyang,2025-03-02 16:11:55,2024-10-26 02:45:02
+164,Aeroméxico,,China,Huicheng,2025-04-17 07:08:29,2025-08-22 05:18:47
+165,Air Canada,,Finland,Rymättylä,2024-12-25 14:26:29,2025-03-04 19:28:37
+166,Qatar Airways,,Philippines,Hernani,2025-08-17 09:00:08,2025-08-31 19:10:35
+167,Korean Air,Auvergne,France,Clermont-Ferrand,2025-06-27 08:45:45,2025-06-14 22:17:00
+168,LATAM Airlines,,Indonesia,Oesao,2024-10-16 21:10:16,2025-04-05 04:54:02
+169,Air India,Pays de la Loire,France,Angers,2025-09-29 14:49:23,2025-08-29 09:22:29
+170,United Airlines,Île-de-France,France,Paris 18,2024-10-21 13:06:02,2024-12-11 14:17:50
+171,Alitalia,,Chile,El Tabo,2025-09-21 04:58:52,2025-04-24 01:19:52
+172,Singapore Airlines,,Indonesia,Mojomulyokrajan,2025-02-20 08:11:36,2024-10-19 08:25:17
+173,Lufthansa,,Brazil,Dom Pedro,2025-06-16 00:56:09,2025-03-08 11:34:08
+174,Iberia,,Nigeria,Nkwerre,2025-02-09 02:29:38,2024-12-20 05:23:59
+175,United Airlines,,Ethiopia,Shashemenē,2025-02-22 06:05:35,2025-01-06 18:16:32
+176,South African Airways,,Chad,Bongor,2024-12-01 05:11:56,2025-05-23 03:44:20
+177,Lufthansa,,Brazil,Goiânia,2024-12-29 12:37:16,2024-11-07 16:46:53
+178,All Nippon Airways,,Indonesia,Rainis,2025-04-02 16:12:50,2024-11-13 22:24:48
+179,Delta Air Lines,,Iran,Bandar-e Ganāveh,2025-06-18 13:53:19,2024-11-07 01:22:14
+180,LATAM Airlines,,Indonesia,Sidomulyo,2025-09-03 17:01:01,2024-12-02 07:28:13
+181,Emirates,,Vietnam,Tân Hòa,2024-11-26 06:54:54,2025-06-28 22:24:14
+182,Aeroméxico,,Brazil,Várzea Paulista,2025-02-05 13:06:07,2025-02-27 02:27:44
+183,Lufthansa,,Philippines,Apurawan,2025-01-19 06:17:07,2024-10-31 19:41:27
+184,Korean Air,,China,Mulong,2024-11-19 15:18:35,2025-02-21 22:36:32
+185,Korean Air,,Indonesia,Sempol,2025-04-26 15:56:41,2025-05-23 09:18:13
+186,All Nippon Airways,Värmland,Sweden,Filipstad,2025-05-03 03:34:38,2025-01-03 13:46:22
+187,Korean Air,,Tanzania,Itigi,2025-04-27 06:51:05,2025-06-25 18:09:52
+188,Aeroméxico,Västerbotten,Sweden,Skellefteå,2025-06-06 13:41:56,2025-04-27 22:23:03
+189,Iberia,Ilha do Faial,Portugal,Pedro Miguel,2025-06-30 00:43:39,2025-02-19 10:56:33
+190,Alitalia,,China,Shikou,2024-12-02 11:23:31,2024-12-24 19:10:47
+191,Air India,,Brazil,Rosário do Sul,2025-04-25 06:34:49,2025-10-04 05:33:52
+192,KLM Royal Dutch Airlines,,Brazil,Santana do Ipanema,2025-08-30 04:34:20,2025-05-03 14:49:59
+193,United Airlines,,China,Chalu,2024-12-18 08:47:50,2025-05-08 06:45:58
+194,Korean Air,,Yemen,Al Jamīmah,2025-05-24 04:27:15,2024-12-31 06:36:27
+195,Singapore Airlines,,Laos,Không,2024-11-07 22:31:36,2025-06-30 13:22:23
+196,Alitalia,,China,Tuhe,2025-02-04 18:43:45,2025-08-16 11:02:22
+197,Thai Airways,Stockholm,Sweden,Tumba,2025-01-29 09:50:57,2024-12-27 04:52:31
+198,Air Canada,,Russia,Gordeyevka,2025-02-27 21:31:50,2025-02-07 22:12:54
+199,Singapore Airlines,,Indonesia,Rejanegara,2024-12-13 06:52:19,2025-10-13 09:36:31
+200,Lufthansa,,Russia,Gorno-Altaysk,2024-11-14 20:54:25,2025-06-21 08:05:48
